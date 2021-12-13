@@ -11,10 +11,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Words"
         tools:ignore="AllowBackup">
-        <activity
-            android:name="com.chaimarafrafi.words.DetailActivity"
-            android:exported="false"
-            android:parentActivityName="com.chaimarafrafi.words.MainActivity" />
+
         <activity
             android:name="com.chaimarafrafi.words.MainActivity"
             android:exported="true">
